@@ -1,16 +1,1 @@
-[
-  {
-    "title":"python crash course",
-    "author": "ABC"
-    "genere": "Programming"
-    "read_status":false,
-    "publication_year":2020
-  },
-  {
-    "title":"python book",
-    "author": "XYZ"
-    "genere": "Programming"
-    "read_status":false,
-    "publication_year":2021
-  },
-  {
+[]
